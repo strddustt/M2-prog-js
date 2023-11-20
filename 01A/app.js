@@ -1,11 +1,11 @@
 class App
 {
-    runapplication()
+    runApplication()
     {
         console.log("hello world!");
         //code hier
     }
 }
 
-let app = new app();
-app.runapplication();
+let app = new App();
+app.runApplication();
